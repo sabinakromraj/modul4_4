@@ -31,4 +31,5 @@ def calculator():
     
     print(f"Wynik to {result}")
 
-calculator()
+if __name__ == "__main__":
+    calculator()
